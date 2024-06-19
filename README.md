@@ -14,8 +14,7 @@
 <b> About me </b><br>
 -->
 
-<b> Languages and Tools </b><br>
-
+<b> Languages and Tools </b>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
