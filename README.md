@@ -7,16 +7,16 @@
 
 <b> Стек технологий: </b>
 
-![Python](https://img.shields.io/badge/-Python-df?style=flat-square&logo=Python&labelColor=yellow&color=blue)
-![Django](https://img.shields.io/badge/-Django-df?style=flat-square&logo=Django&labelColor=darkgreen&color=blue)
-![DRF](https://img.shields.io/badge/-REST-df?style=flat-square&logo=Django&labelColor=darkgreen&color=blue)
+![Python](https://img.shields.io/badge/-PYTHON-df?style=flat-square&logo=Python&labelColor=yellow&color=blue)
+![Django](https://img.shields.io/badge/-DjANGO-df?style=flat-square&logo=Django&logoColor=yellow&labelColor=darkgreen&color=darkgreen)
+![DRF](https://img.shields.io/badge/REST-ghfthg?style=flat-square&logo=Django&logoColor=yellow&label=DJANGO&labelColor=darkgreen&color=blue)
 ![Postman](https://img.shields.io/badge/-Postman-df?style=flat-square&logo=Postman&labelColor=black&color=blue)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-df?style=flat-square&logo=DOCKER&labelColor=lightblue&color=blue)
 ![NGINX](https://img.shields.io/badge/-Nginx-df?style=flat-square&logo=NGINX&labelColor=green&color=blue)
 ![GUNICORN](https://img.shields.io/badge/-Gunicorn-df?style=flat-square&logo=Gunicorn&labelColor=lightgreen&color=blue)
 ![PostreSQL](https://img.shields.io/badge/-PostreSQL-df?style=flat-square&logo=SQLite&labelColor=darkgreen&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=flat-square&logo=GitHub&labelColor=black&color=blue)
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=flat-square&logo=GitHubActions&labelColor=black&color=blue)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=&logo=GitHubActions&logoColor=yellow&labelColor=black&color=blue)
 
 <b>Для связи:</b><br>
 
