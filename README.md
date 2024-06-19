@@ -1,7 +1,8 @@
+<!--
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5mbTg5dWw0cWtpejV3cm9jajVkcjQzbTcza25icXpqa2hzeTJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGbnid8SQaLvd5FnLz/giphy.gif" width="300"/>
 </div>
-
+-->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
