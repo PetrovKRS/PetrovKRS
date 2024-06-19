@@ -11,10 +11,11 @@
     </th>
 </table>
 </div>
-<b> About me </b><br>
 -->
+<b> Обо мне: </b><br>
+<div>Всем привет ! Меня зовут Андрей. Я Python разработчик!</div>
 
-<b> Languages and Tools </b>
+<b> Стек технологий: </b>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -26,3 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+<b>Для связи:</b><br>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-df?style=flat-square&logo=Telegram&labelColor=blue&color=blue)](https://t.me/Petrov_KRS)
+
+
