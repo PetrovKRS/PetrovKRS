@@ -11,18 +11,25 @@
     </th>
 </table>
 </div>
-<b> About me </b><br>
 -->
+<b> Обо мне: </b><br>
+<div>Всем привет ! Меня зовут Андрей. Я Python разработчик!</div>
 
-<b> Languages and Tools </b>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
+<b> Стек технологий: </b>
+
+![Python](https://img.shields.io/badge/-Python-df?style=flat-square&logo=Python&labelColor=yellow&color=blue)
+![Django](https://img.shields.io/badge/-Django-df?style=flat-square&logo=Django&labelColor=darkgreen&color=blue)
+![DRF](https://img.shields.io/badge/-REST-df?style=flat-square&logo=Django&labelColor=darkgreen&color=blue)
+![Postman](https://img.shields.io/badge/-Postman-df?style=flat-square&logo=Postman&labelColor=black&color=blue)
+![DOCKER](https://img.shields.io/badge/-DOCKER-df?style=flat-square&logo=DOCKER&labelColor=lightblue&color=blue)
+![NGINX](https://img.shields.io/badge/-Nginx-df?style=flat-square&logo=NGINX&labelColor=green&color=blue)
+![GUNICORN](https://img.shields.io/badge/-Gunicorn-df?style=flat-square&logo=Gunicorn&labelColor=lightgreen&color=blue)
+![PostreSQL](https://img.shields.io/badge/-PostreSQL-df?style=flat-square&logo=SQLite&labelColor=darkgreen&color=blue)
+![GitHub](https://img.shields.io/badge/-GitHub-df?style=flat-square&logo=GitHub&labelColor=black&color=blue)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=flat-square&logo=GitHubActions&labelColor=black&color=blue)
+
+<b>Для связи:</b><br>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-df?style=flat-square&logo=Telegram&labelColor=blue&color=blue)](https://t.me/Petrov_KRS)
+
+
