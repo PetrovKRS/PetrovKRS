@@ -1,7 +1,7 @@
-Header
+<!-- Header
 
 <div id="header" align="left">
-<table>
+<table border="0">
     <th>
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5mbTg5dWw0cWtpejV3cm9jajVkcjQzbTcza25icXpqa2hzeTJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw
 /ZGbnid8SQaLvd5FnLz/giphy.gif" width="150"/>
@@ -12,7 +12,7 @@ Header
 </table>
 </div>
 <b> About me </b><br>
-
+-->
 
 <b> Languages and Tools </b><br>
 
