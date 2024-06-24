@@ -5,7 +5,7 @@
 [//]: # (<b> Обо мне: </b><br>)
 [//]: # (<div>Всем привет ! Меня зовут Андрей. Я Python разработчик!</div>)
 
-<b> Стек технологий: </b>
+### <b> Стек технологий: </b>
 
 ![Python](https://img.shields.io/badge/-Python-df?style=for-the-badge&logo=Python&labelColor=yellow&color=blue)
 ![Django](https://img.shields.io/badge/-Django-df?style=for-the-badge&logo=Django&labelColor=darkgreen&color=blue)

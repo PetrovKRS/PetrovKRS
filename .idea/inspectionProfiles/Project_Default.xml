@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="1" class="java.lang.String" itemvalue="reportlab" />
+            <item index="2" class="java.lang.String" itemvalue="webcolors" />
+            <item index="3" class="java.lang.String" itemvalue="pytest" />
+            <item index="4" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="5" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="6" class="java.lang.String" itemvalue="pytest-pythonpath" />
+            <item index="7" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="8" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="9" class="java.lang.String" itemvalue="filters" />
+            <item index="10" class="java.lang.String" itemvalue="flake8" />
+            <item index="11" class="java.lang.String" itemvalue="django-filter" />
+            <item index="12" class="java.lang.String" itemvalue="Django" />
+            <item index="13" class="java.lang.String" itemvalue="djoser" />
+            <item index="14" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="15" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
