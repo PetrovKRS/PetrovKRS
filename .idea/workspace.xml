@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ad7b70d-44f5-4c5a-acc8-0495f22cdb4c" name="Changes" comment="изменил цвета иконок" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2i5vQCVmA63iLy3m5Iu1GjW7oE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/petrovkrs/Dev/Reviews-api_service",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad7b70d-44f5-4c5a-acc8-0495f22cdb4c" name="Changes" comment="" />
+      <created>1718793234564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718793234564</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add structure">
+      <option name="closed" value="true" />
+      <created>1718797165519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718797165519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add structure">
+      <option name="closed" value="true" />
+      <created>1718797314993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718797314993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add structure">
+      <option name="closed" value="true" />
+      <created>1718797615009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718797615009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add structure">
+      <option name="closed" value="true" />
+      <created>1718798197368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718798197368</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавил пэйдж для телеграм">
+      <option name="closed" value="true" />
+      <created>1718804191650</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718804191650</updated>
+    </task>
+    <task id="LOCAL-00006" summary="добавил стек технологий с пэйджами">
+      <option name="closed" value="true" />
+      <created>1718808077615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808077615</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавил gif">
+      <option name="closed" value="true" />
+      <created>1718808580620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808580620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Добавил gif">
+      <option name="closed" value="true" />
+      <created>1718808619147</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718808619147</updated>
+    </task>
+    <task id="LOCAL-00009" summary="изменил цвета иконок">
+      <option name="closed" value="true" />
+      <created>1718810199152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718810199152</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add structure" />
+    <MESSAGE value="добавил пэйдж для телеграм" />
+    <MESSAGE value="добавил стек технологий с пэйджами" />
+    <MESSAGE value="Добавил gif" />
+    <MESSAGE value="изменил цвета иконок" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменил цвета иконок" />
+  </component>
+</project>
