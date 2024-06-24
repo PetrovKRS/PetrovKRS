@@ -14,7 +14,7 @@
 ![DOCKER](https://img.shields.io/badge/-DOCKER-df?style=for-the-badge&logo=DOCKER&labelColor=lightblue&color=blue)
 ![NGINX](https://img.shields.io/badge/-Nginx-df?style=for-the-badge&logo=NGINX&labelColor=green&color=blue)
 ![GUNICORN](https://img.shields.io/badge/-Gunicorn-df?style=for-the-badge&logo=Gunicorn&labelColor=lightgreen&color=blue)
-![PostreSQL](https://img.shields.io/badge/-PostreSQL-df?style=for-the-badge&logo=SQLite&labelColor=darkgreen&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-df?style=for-the-badge&logo=PostgreSQL&labelColor=lightblue&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=for-the-badge&logo=GitHubActions&labelColor=black&color=blue)
 
