@@ -23,3 +23,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-df?style=for-the-badge&logo=Telegram&labelColor=blue&color=blue)](https://t.me/Petrov_KRS)
 
 
+<!--
+Кнопка авторства!
+[![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://t.me/Petrov_KRS)
+-->
