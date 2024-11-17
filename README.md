@@ -17,6 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-df?style=flat-square&logo=PostgreSQL&labelColor=lightblue&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-df?style=flat-square&logo=GitHub&labelColor=black&color=blue)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-df?style=&logo=GitHubActions&logoColor=yellow&labelColor=black&color=blue)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-df?style=&logo=SQLAlchemy&logoColor=yellow&labelColor=black&color=blue)
 
 <b>Для связи:</b><br>
 
